@@ -1,0 +1,14 @@
+C:\Comments API\CommentsAPI\bin\Debug\netcoreapp2.1\CommentsAPI.deps.json
+C:\Comments API\CommentsAPI\bin\Debug\netcoreapp2.1\CommentsAPI.runtimeconfig.json
+C:\Comments API\CommentsAPI\bin\Debug\netcoreapp2.1\CommentsAPI.runtimeconfig.dev.json
+C:\Comments API\CommentsAPI\bin\Debug\netcoreapp2.1\CommentsAPI.dll
+C:\Comments API\CommentsAPI\bin\Debug\netcoreapp2.1\CommentsAPI.pdb
+C:\Comments API\CommentsAPI\obj\Debug\netcoreapp2.1\CommentsAPI.csprojAssemblyReference.cache
+C:\Comments API\CommentsAPI\obj\Debug\netcoreapp2.1\CommentsAPI.csproj.CoreCompileInputs.cache
+C:\Comments API\CommentsAPI\obj\Debug\netcoreapp2.1\CommentsAPI.RazorAssemblyInfo.cache
+C:\Comments API\CommentsAPI\obj\Debug\netcoreapp2.1\CommentsAPI.RazorAssemblyInfo.cs
+C:\Comments API\CommentsAPI\obj\Debug\netcoreapp2.1\CommentsAPI.AssemblyInfoInputs.cache
+C:\Comments API\CommentsAPI\obj\Debug\netcoreapp2.1\CommentsAPI.AssemblyInfo.cs
+C:\Comments API\CommentsAPI\obj\Debug\netcoreapp2.1\CommentsAPI.RazorTargetAssemblyInfo.cache
+C:\Comments API\CommentsAPI\obj\Debug\netcoreapp2.1\CommentsAPI.dll
+C:\Comments API\CommentsAPI\obj\Debug\netcoreapp2.1\CommentsAPI.pdb
